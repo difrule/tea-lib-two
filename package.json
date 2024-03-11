@@ -1,6 +1,6 @@
 {
   "name": "tea-lib-two",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/difrule/tea-lib-two#readme",
   "dependencies": {
-    "tea-lib-one": "^1.0.0"
+    "tea-lib-one": "^1.0.0",
+    "teatrc20": "^1.0.0",
+    "wwwtea": "^1.0.4"
   }
 }
